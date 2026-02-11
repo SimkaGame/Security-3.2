@@ -1,12 +1,10 @@
 # HW Security №1
 
-1. 
-# Результат команды tree ~/secure_project
+# 1. Результат команды tree ~/secure_project
 
 ![alt text](<Снимок экрана 2026-02-11 182239.png>)
 
-2. 
-# Копия содержимого файла evidence.log
+# 2. Копия содержимого файла evidence.log
 
 Ввод
 
@@ -20,11 +18,10 @@ simka@Dmitry:~/secure_project$ cat evidence.log
 ./secret_plan_v1.txt:The password is 12345
 ```
 
-3. 
-# Вывод history
+# 3. Вывод history
 
 ```bash
- 1  pwd
+    1  pwd
     2  il -la
     3  is -la
     4  ls -la
